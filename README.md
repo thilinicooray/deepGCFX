@@ -1,5 +1,5 @@
 # deepGCFX
-PyTorch implementation for our AAAI 2022 Paper "Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning"
+PyTorch implementation for our AAAI 2022 Paper "Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning" [[PDF]](https://arxiv.org/pdf/2112.08830.pdf)
 
 ## Preparing the environment
 
